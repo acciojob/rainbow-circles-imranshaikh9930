@@ -34,6 +34,7 @@ body, html {
     height: 200px;
     background-color: rgb(0, 128, 0); 
 	border:25px solid rgb(255, 255, 0);
+	margin:25px;
 }
 
 
@@ -42,24 +43,25 @@ body, html {
     height: 100px;
     background-color: rgb(128, 0, 128); 
 	margin: 25px;
+	border:25px solid rgb(0, 0, 255);
 }
 
-#inner2 {
+/* #inner2 {
     width: 150px;
     height: 150px;
     background-color: #008000; 
-}
+} */
 
 
-#inner3 {
+/* #inner3 {
     width: 100px;
     height: 100px;
     background-color: #0000ff; 
 }
-
-
+ */
+/* 
 #inner3 div {
     width: 50px;
     height: 50px;
     background-color: #800080; 
-}
+} */
